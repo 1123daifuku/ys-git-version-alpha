@@ -172,7 +172,7 @@ function App() {
           </>
         ))}
       </StyledList>
-    </StyledContainer>
+    </StyledContainer >
   )
 }
 
